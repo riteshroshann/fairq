@@ -16,3 +16,6 @@ old/1411.4028v1.pdf
 __pycache__/
 .venv/
 .ipynb_checkpoints/
+
+# course report names classmates; it stays local
+report/
