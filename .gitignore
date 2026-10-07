@@ -1,0 +1,18 @@
+# other people's papers stay local; references.zip is also over github's 100 MB limit
+core_papers/
+references/
+*.zip
+old/1411.4028v1.pdf
+
+# latex and python build junk
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+__pycache__/
+.venv/
+.ipynb_checkpoints/
